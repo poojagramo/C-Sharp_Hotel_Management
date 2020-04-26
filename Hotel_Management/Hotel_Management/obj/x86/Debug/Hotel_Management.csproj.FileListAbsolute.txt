@@ -1,0 +1,13 @@
+c:\users\dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\obj\x86\Debug\Hotel_Management.LoginForm.resources
+c:\users\dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\obj\x86\Debug\Hotel_Management.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\obj\x86\Debug\Hotel_Management.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\bin\Debug\Hotel_Management.exe
+c:\users\dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\bin\Debug\Hotel_Management.pdb
+c:\users\dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\obj\x86\Debug\Hotel_Management.exe
+c:\users\dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\obj\x86\Debug\Hotel_Management.pdb
+C:\Users\Dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\bin\Debug\MySql.Data.DLL
+C:\Users\Dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\obj\x86\Debug\Hotel_Management.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\obj\x86\Debug\Hotel_Management.Main_Form.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\obj\x86\Debug\Hotel_Management.ManageClientsForm.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\obj\x86\Debug\Hotel_Management.ManageReservationsForm.resources
+C:\Users\Dell\documents\visual studio 2010\Projects\Hotel_Management\Hotel_Management\obj\x86\Debug\Hotel_Management.ManageRoomsForm.resources
